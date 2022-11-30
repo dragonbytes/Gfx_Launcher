@@ -3,9 +3,9 @@
 Written by Todd Wallace  
 YouTube: https://www.youtube.com/@tekdragon  
 Website: https://tektodd.com  
-
+<br>
 <p align="center"><img src="https://user-images.githubusercontent.com/17234382/204734056-f6caa39c-47bb-4482-9af3-0ba2fb8c15c3.png"></p>
-
+<br>
 If you are like me and find yourself frequently running the same
 programs/commands over and over when booting up your CoCo, this
 launcher might be for you! It's a way to streamline that sort of

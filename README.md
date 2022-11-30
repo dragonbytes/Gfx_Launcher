@@ -1,7 +1,7 @@
 ************************************************************************
 * GFX Launcher v1.0
 * Written by Todd Wallace
-* YouTube: https://www.youtube.com/user/todd3293/
+* YouTube: https://www.youtube.com/@tekdragon
 * Website: https://tektodd.com
 *
 * If you are like me and find yourself frequently running the same
